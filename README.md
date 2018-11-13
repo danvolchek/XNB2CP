@@ -18,6 +18,3 @@ Work on this project is discontinued. The original goal was to create an automat
 ## Requirements:
 - [xnbcli](https://github.com/LeonBlade/xnbcli)
 	- Install as xnbcli/[windows/mac/linux]/[executable, dxt.node] inside the XNB2CP folder, the build process will handle copying it to where it needs to be.
-
-## License:
-GNU GPL v3.0
